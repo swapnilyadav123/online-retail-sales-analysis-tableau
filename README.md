@@ -181,23 +181,7 @@ Interact with the Tableau worksheets and explore:
 
 ---
 
-## 📸 Dashboard Preview
 
-Add screenshots of your Tableau visualizations here.
-
-Example:
-
-```markdown
-![Revenue Trend](Screenshots/revenue-trend.png)
-
-![Country Analysis](Screenshots/country-analysis.png)
-
-![Customer Analysis](Screenshots/customer-analysis.png)
-
-![Geographic Analysis](Screenshots/geographic-analysis.png)
-```
-
----
 
 ## 📌 Skills Demonstrated
 
@@ -224,9 +208,9 @@ Aspiring Data Analyst | Tableau | Power BI | SQL | Excel | Python
 
 ### Connect With Me
 
-* **GitHub:** [Add your GitHub profile]
-* **LinkedIn:** [Add your LinkedIn profile]
-* **Portfolio:** [Add your portfolio]
+* **GitHub:** [[Add your GitHub profile](https://github.com/swapnilyadav123)]
+* **LinkedIn:** [[Add your LinkedIn profile](https://www.linkedin.com/in/swapnil-yadav-5246a7358/)]
+  
 
 ---
 
