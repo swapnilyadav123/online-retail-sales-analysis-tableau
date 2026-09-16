@@ -208,8 +208,8 @@ Aspiring Data Analyst | Tableau | Power BI | SQL | Excel | Python
 
 ### Connect With Me
 
-* **GitHub:** [[Add your GitHub profile](https://github.com/swapnilyadav123)]
-* **LinkedIn:** [[Add your LinkedIn profile](https://www.linkedin.com/in/swapnil-yadav-5246a7358/)]
+* **GitHub:** [[github.com/swapnilyadav123](https://github.com/swapnilyadav123)]
+* **LinkedIn:** [[linkedin.com/in/swapnil-yadav](https://www.linkedin.com/in/swapnil-yadav-5246a7358/)]
   
 
 ---
