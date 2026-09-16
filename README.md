@@ -152,30 +152,7 @@ The analysis can be used to identify:
 
 ---
 
-## 📁 Project Structure
 
-```text
-online-retail-sales-analysis-tableau/
-│
-├── README.md
-│
-├── Tableau/
-│   ├── Sheet1.twbx
-│   ├── Sheet2.twbx
-│   ├── Sheet3.twbx
-│   └── Sheet4.twbx
-│
-├── Dataset/
-│   └── online_retail.csv
-│
-└── Screenshots/
-    ├── revenue-trend.png
-    ├── country-analysis.png
-    ├── customer-analysis.png
-    └── geographic-analysis.png
-```
-
----
 
 ## 🚀 How to Use This Project
 
